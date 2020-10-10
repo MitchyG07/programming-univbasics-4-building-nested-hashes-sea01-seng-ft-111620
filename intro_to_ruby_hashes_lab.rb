@@ -42,7 +42,7 @@ def monopoly_with_fourth_tier
       },
       :names => {
         :reading_railroad => {},
-        :pennslyvania => {},
+        :pennslyvania_railroad => {},
         :b_and_o_railroad => {},
         :shortline_railroad => {}
       }
